@@ -29,7 +29,3 @@ To get started with using or contributing to this project:
 - [Rjibaa](https://github.com/Rjibaa)
 
 Feel free to contribute by opening issues, suggesting enhancements, or submitting pull requests. Your contributions are highly appreciated!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
